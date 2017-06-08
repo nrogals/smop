@@ -30,9 +30,6 @@ def print_header(fp):
 
 
 def main():
-    
-    
-    fsdfsadfsd
     tar = None
     if "M" in options.debug:
         import pdb
