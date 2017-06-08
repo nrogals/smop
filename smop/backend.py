@@ -18,7 +18,7 @@ from node import extend,exceptions
 indent = " "*4
 
 optable = {
-    "!" : "not",
+    "!" : "not"w,
     "~" : "not",
     "~=": "!=",
     "|" : "or",
